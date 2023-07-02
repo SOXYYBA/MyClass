@@ -1,0 +1,12 @@
+C:\Users\sasha\source\repos\MyClass\MyClass\bin\Debug\net6.0\MyClass.deps.json
+C:\Users\sasha\source\repos\MyClass\MyClass\bin\Debug\net6.0\MyClass.dll
+C:\Users\sasha\source\repos\MyClass\MyClass\bin\Debug\net6.0\MyClass.pdb
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.AssemblyInfo.cs
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.dll
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\refint\MyClass.dll
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\MyClass.pdb
+C:\Users\sasha\source\repos\MyClass\MyClass\obj\Debug\net6.0\ref\MyClass.dll
